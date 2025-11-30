@@ -48,7 +48,7 @@
                 "Node name for S&R": "CheckpointLoaderSimple"
             },
             "widgets_values": [
-                "Realistic_Vision_V6.0_B1_3D.safetensors"
+                "henmixReal_v6b.safetensors"
             ]
         },
         {
@@ -446,21 +446,21 @@
                 "Node name for S&R": "UltimateSDUpscale"
             },
             "widgets_values": [
-                0.35,
-                40,
-                "4x-UltraSharp",
+                2,
+                12345,
+                "randomize",
+                20,
+                8.0,
                 "dpmpp_2m",
                 "karras",
-                512,
-                512,
-                1,
+                0.35,
                 "Linear",
                 512,
                 512,
                 8,
                 32,
                 "None",
-                1,
+                1.0,
                 64,
                 8,
                 16,
